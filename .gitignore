@@ -1,0 +1,6 @@
+# Project exclude paths
+/clientdemo/target/
+/eurekacluster/eureka-node1/target/
+/eurekacluster/eureka-node2/target/
+/eurekacluster/eureka-node3/target/
+/Eurekademo/target/
